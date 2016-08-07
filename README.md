@@ -10,31 +10,35 @@ Kit
 
 Started with Jeremy's list, made modifications
 
-~~* [Raspberry Pi 2](http://www.amazon.com/gp/product/B00T2U7R7I?psc=1&redirect=true&ref_=oh_aui_detailpage_o07_s00) $39~~ 
+~~[Raspberry Pi 2](http://www.amazon.com/gp/product/B00T2U7R7I?psc=1&redirect=true&ref_=oh_aui_detailpage_o07_s00) $39~~ 
+
 [Raspberry Pi 3](https://www.amazon.com/gp/product/B01CD5VC92/ref=ox_sc_act_title_1?ie=UTF8&psc=1&smid=A3FPRP7I8FTOOJ) 
 
+[USB NFC Card Reader](http://www.amazon.com/gp/product/B00BYKPHSU?psc=1&redirect=true&ref_=oh_aui_detailpage_o04_s00) $18
 
-* [USB NFC Card Reader](http://www.amazon.com/gp/product/B00BYKPHSU?psc=1&redirect=true&ref_=oh_aui_detailpage_o04_s00) $18
+[Wi-Fi USB Adapter](http://www.amazon.com/gp/product/B003MTTJOY?psc=1&redirect=true&ref_=oh_aui_detailpage_o07_s00) $9
 
-* [Wi-Fi USB Adapter](http://www.amazon.com/gp/product/B003MTTJOY?psc=1&redirect=true&ref_=oh_aui_detailpage_o07_s00) $9
+~~[SD Card](http://www.amazon.com/gp/product/B00M55C0LK?psc=1&redirect=true&ref_=oh_aui_detailpage_o07_s00) $11~~
 
-~~* [SD Card](http://www.amazon.com/gp/product/B00M55C0LK?psc=1&redirect=true&ref_=oh_aui_detailpage_o07_s00) $11~~
 [SD Card](https://www.amazon.com/gp/product/B010Q57T02/ref=ox_sc_act_title_7?ie=UTF8&psc=1&smid=ATVPDKIKX0DER) $11
 
-~~* [USB Flash Drive](http://www.amazon.com/gp/product/B005FYNSZA?psc=1&redirect=true&ref_=oh_aui_detailpage_o08_s00) $8 (16 gb)~~
+~~[USB Flash Drive](http://www.amazon.com/gp/product/B005FYNSZA?psc=1&redirect=true&ref_=oh_aui_detailpage_o08_s00) $8 (16 gb)~~
+
 [USB Flash Drive](https://www.amazon.com/dp/B00812F7O8/ref=twister_B00JO6RO8C)  $9 (32 gb)
 
-~~* [Case for Raspberry Pi 2](http://www.amazon.com/Official-Raspberry-Pi-Foundation-Model/dp/B00ZW4RKFM/ref=pd_sim_147_11?ie=UTF8&dpID=21Vhd3vo7FL&dpSrc=sims&preST=_AC_UL160_SR160%2C160_&refRID=1ZKG2697ATZRSE53RKYA) $9~~
+~~[Case for Raspberry Pi 2](http://www.amazon.com/Official-Raspberry-Pi-Foundation-Model/dp/B00ZW4RKFM/ref=pd_sim_147_11?ie=UTF8&dpID=21Vhd3vo7FL&dpSrc=sims&preST=_AC_UL160_SR160%2C160_&refRID=1ZKG2697ATZRSE53RKYA) $9~~
+
 Going to design and 3d print an enclosure.
 
-~~* [Mifare RFID cards](http://www.amazon.com/gp/product/B00NN6UTKY?psc=1&redirect=true&ref_=oh_aui_detailpage_o06_s00) $26~~ - No longer available
+~~[Mifare RFID cards](http://www.amazon.com/gp/product/B00NN6UTKY?psc=1&redirect=true&ref_=oh_aui_detailpage_o06_s00) $26~~ - No longer available
+
 [replacement RFID cards](https://www.amazon.com/gp/product/B01H5L05RY/ref=ox_sc_act_title_4?ie=UTF8&psc=1&smid=A3WEW9HYH3EA1) - Hope these work
 
-* [Card protector sleeves](http://www.amazon.com/gp/product/B00B7TUIFA?psc=1&redirect=true&ref_=oh_aui_detailpage_o04_s00) $7
+[Card protector sleeves](http://www.amazon.com/gp/product/B00B7TUIFA?psc=1&redirect=true&ref_=oh_aui_detailpage_o04_s00) $7
 
-~~* [Mini Remote Control](http://www.amazon.com/gp/product/B00RBGB91K?psc=1&redirect=true&ref_=oh_aui_detailpage_o03_s00) $13~~ Have one
+~~[Mini Remote Control](http://www.amazon.com/gp/product/B00RBGB91K?psc=1&redirect=true&ref_=oh_aui_detailpage_o03_s00) $13~~ Have one
 
-~~* [Mini USB Cables](http://www.amazon.com/gp/product/B007NLW3C2?psc=1&redirect=true&ref_=oh_aui_detailpage_o02_s00) $9~~ Have one
+~~[Mini USB Cables](http://www.amazon.com/gp/product/B007NLW3C2?psc=1&redirect=true&ref_=oh_aui_detailpage_o02_s00) $9~~ Have one
 
 
 ~~=> $150~~
