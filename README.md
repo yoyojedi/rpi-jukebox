@@ -11,14 +11,23 @@ Kit
 Started with Jeremy's list, made modifications
 
 * [Raspberry Pi 3] (https://www.amazon.com/gp/product/B01CD5VC92/ref=ox_sc_act_title_1?ie=UTF8&psc=1&smid=A3FPRP7I8FTOOJ)  $36 replaces ~~[Raspberry Pi 2](http://www.amazon.com/gp/product/B00T2U7R7I?psc=1&redirect=true&ref_=oh_aui_detailpage_o07_s00) $39~~ 
+
 *[USB NFC Card Reader](http://www.amazon.com/gp/product/B00BYKPHSU?psc=1&redirect=true&ref_=oh_aui_detailpage_o04_s00) ~~$18~~ $17
+
 *[Wi-Fi USB Adapter](http://www.amazon.com/gp/product/B003MTTJOY?psc=1&redirect=true&ref_=oh_aui_detailpage_o07_s00) $9
+
 *[SD Card] (https://www.amazon.com/gp/product/B010Q57T02/ref=ox_sc_act_title_7?ie=UTF8&psc=1&smid=ATVPDKIKX0DER) $11 replaces ~~[SD Card](http://www.amazon.com/gp/product/B00M55C0LK?psc=1&redirect=true&ref_=oh_aui_detailpage_o07_s00) $11~~ 
+
 * [USB Flash Drive] (https://www.amazon.com/dp/B00812F7O8/ref=twister_B00JO6RO8C)  $9 (32 gb) replaces ~~[USB Flash Drive](http://www.amazon.com/gp/product/B005FYNSZA?psc=1&redirect=true&ref_=oh_aui_detailpage_o08_s00) $8 (16 gb)~~ 
+
 *Going to design and 3D print an enclosure. ~~[Case for Raspberry Pi 2](http://www.amazon.com/Official-Raspberry-Pi-Foundation-Model/dp/B00ZW4RKFM/ref=pd_sim_147_11?ie=UTF8&dpID=21Vhd3vo7FL&dpSrc=sims&preST=_AC_UL160_SR160%2C160_&refRID=1ZKG2697ATZRSE53RKYA) $9~~ 
+
 *[replacement RFID cards](https://www.amazon.com/gp/product/B01H5L05RY/ref=ox_sc_act_title_4?ie=UTF8&psc=1&smid=A3WEW9HYH3EA1) $21 replaces ~~[Mifare RFID cards](http://www.amazon.com/gp/product/B00NN6UTKY?psc=1&redirect=true&ref_=oh_aui_detailpage_o06_s00) $26~~
+
 *[Card protector sleeves](http://www.amazon.com/gp/product/B00B7TUIFA?psc=1&redirect=true&ref_=oh_aui_detailpage_o04_s00) $7
+
 *Have one ~~[Mini Remote Control](http://www.amazon.com/gp/product/B00RBGB91K?psc=1&redirect=true&ref_=oh_aui_detailpage_o03_s00) $13~~ 
+
 *Have one ~~[Mini USB Cables](http://www.amazon.com/gp/product/B007NLW3C2?psc=1&redirect=true&ref_=oh_aui_detailpage_o02_s00) $9~~ 
 
 
