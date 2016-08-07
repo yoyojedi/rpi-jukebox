@@ -1,7 +1,7 @@
 What is this?
 =============
 
-My wife is a Montessori teacher, and didn't want screens to be a part of his life until 6 years old. I wanted him to be able to choose his own music and play it as much as he wanted. This jukebox lets him do that without screens.
+[Jeremy Lightsmith](https://github.com/jeremylightsmith)'s wife is a Montessori teacher, and didn't want screens to be a part of his life until 6 years old. I wanted him to be able to choose his own music and play it as much as he wanted. This jukebox lets him do that without screens.
 
 He just holds the card with the picture of the song/album near the jukebox and it starts playing...
 
