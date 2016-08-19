@@ -14,7 +14,7 @@ Started with Jeremy's list, made modifications
 
 * [USB NFC Card Reader](http://www.amazon.com/gp/product/B00BYKPHSU?psc=1&redirect=true&ref_=oh_aui_detailpage_o04_s00) ~~$18~~ $17
 
-* [Wi-Fi USB Adapter](http://www.amazon.com/gp/product/B003MTTJOY?psc=1&redirect=true&ref_=oh_aui_detailpage_o07_s00) $9
+* [Wi-Fi USB Adapter](http://www.amazon.com/gp/product/B003MTTJOY?psc=1&redirect=true&ref_=oh_aui_detailpage_o07_s00) $9 (didn't need, oops. rp3 has built in wifi)
 
 * [SD Card] (https://www.amazon.com/gp/product/B010Q57T02/ref=ox_sc_act_title_7?ie=UTF8&psc=1&smid=ATVPDKIKX0DER) $11 replaces ~~[SD Card](http://www.amazon.com/gp/product/B00M55C0LK?psc=1&redirect=true&ref_=oh_aui_detailpage_o07_s00) $11~~ 
 
@@ -41,6 +41,11 @@ Started with Jeremy's list, made modifications
 
 Installation
 ============
+
+Started with base Rasberrian
+
+Followed [these steps](https://www.raspberrypi.org/learning/software-guide/quickstart/)
+Including using [etcher](https://www.etcher.io/)
 
 Setup WiFi
 ----------
