@@ -39,13 +39,36 @@ Started with Jeremy's list, made modifications
 
 
 
-Installation
+Installation (putting software on the SD card with another computer)
 ============
 
-Started with base Rasberrian
+Started with base Raspbian (2016-05-27-raspbian-jessie)
 
 Followed [these steps](https://www.raspberrypi.org/learning/software-guide/quickstart/)
 Including using [etcher](https://www.etcher.io/)
+
+(currently here)
+
+First Boot
+============
+<do stuff>
+setup wifi
+check out remote desktop stuff
+<other headless steps>
+
+
+Headless
+============
+setup dhcp reservation with pi's mac address 
+log into pi via desktop?
+log into pi via commandline
+
+
+
+
+
+
+---------- Jeremy's details below ----------
 
 Setup WiFi
 ----------
