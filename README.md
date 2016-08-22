@@ -60,6 +60,7 @@ change password (open prompt, passwd, need to know default password is "raspberr
 set locale, timezone.
 
 installed VNC
+
     1. Install VNC server on Raspberry:
          $ sudo apt-get install tightvncserver
     2. Start VNC server:
