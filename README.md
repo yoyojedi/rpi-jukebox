@@ -36,9 +36,6 @@ Started with Jeremy's list, made modifications
 => 110
 
 
-
-
-
 Installation (putting software on the SD card with another computer)
 ============
 
@@ -55,7 +52,7 @@ First Boot
 
 setup wifi (click icon in upper right (took a min to be ready) chose ssid, entered pass)
 
-change password (open prompt, passwd, need to know default password is "raspberry"
+change password in settings
 
 set locale, timezone.
 
@@ -91,12 +88,12 @@ Get [vnc viewer](http://tightvnc.com/download.php) on desktop
 
 Headless
 ============
-done: setup dhcp reservation with pi's mac address 
-verified: log into pi via desktop?
-verified: log into pi via commandline
+* done: setup dhcp reservation with pi's mac address 
+* verified: log into pi via desktop?
+* verified: log into pi via commandline
 
 
-(currently here)
+---> (currently here) <---
 
 Music
 ============
