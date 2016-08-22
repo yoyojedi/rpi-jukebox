@@ -52,9 +52,13 @@ Including using [etcher](https://www.etcher.io/)
 First Boot
 ============
 < land at desktop user "pi" >
+
 setup wifi (click icon in upper right (took a min to be ready) chose ssid, entered pass)
+
 change password (open prompt, passwd, need to know default password is "raspberry"
+
 set locale, timezone.
+
 installed VNC
      1. Install VNC server on Raspberry:
          $ sudo apt-get install tightvncserver
