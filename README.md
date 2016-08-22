@@ -47,24 +47,58 @@ Started with base Raspbian (2016-05-27-raspbian-jessie)
 Followed [these steps](https://www.raspberrypi.org/learning/software-guide/quickstart/)
 Including using [etcher](https://www.etcher.io/)
 
-(currently here)
+
 
 First Boot
 ============
-<do stuff>
-setup wifi
-check out remote desktop stuff
-<other headless steps>
+< land at desktop user "pi" >
+setup wifi (click icon in upper right (took a min to be ready) chose ssid, entered pass)
+change password (open prompt, passwd, need to know default password is "raspberry"
+set locale, timezone.
+installed VNC
+     1. Install VNC server on Raspberry:
+         $ sudo apt-get install tightvncserver
+     2. Start VNC server:
+         $ vncserver
+     3. Set VNC Server [to autorun](https://learn.adafruit.com/adafruit-raspberry-pi-lesson-7-remote-control-with-vnc/running-vncserver-at-startup)
 
+$ cd /home/pi
+$ cd .config
+$ mkdir autostart
+$ cd autostart
+$ nano tightvnc.desktop
+
+------
+[Desktop Entry]
+Type=Application
+Name=TightVNC
+Exec=vncserver :1
+StartupNotify=false
+-----
+
+Get [vnc viewer](http://tightvnc.com/download.php) on desktop
+<other headless steps>
 
 Headless
 ============
-setup dhcp reservation with pi's mac address 
-log into pi via desktop?
-log into pi via commandline
+done: setup dhcp reservation with pi's mac address 
+verified: log into pi via desktop?
+verified: log into pi via commandline
 
 
+(currently here)
 
+Music
+============
+pick some mp3s. 
+put them on the usb stick.
+plug in speakers.
+play some mp3s.
+
+Card Reader
+============
+figure out card reader
+hook card to a song
 
 
 
