@@ -60,17 +60,19 @@ change password (open prompt, passwd, need to know default password is "raspberr
 set locale, timezone.
 
 installed VNC
-     1. Install VNC server on Raspberry:
+    1. Install VNC server on Raspberry:
          $ sudo apt-get install tightvncserver
-     2. Start VNC server:
+    2. Start VNC server:
          $ vncserver
-     3. Set VNC Server [to autorun](https://learn.adafruit.com/adafruit-raspberry-pi-lesson-7-remote-control-with-vnc/running-vncserver-at-startup)
+    3. Set VNC Server [to autorun](https://learn.adafruit.com/adafruit-raspberry-pi-lesson-7-remote-control-with-vnc/running-vncserver-at-startup)
 
-$ cd /home/pi
-$ cd .config
-$ mkdir autostart
-$ cd autostart
-$ nano tightvnc.desktop
+run commands
+
+    $ cd /home/pi
+    $ cd .config
+    $ mkdir autostart
+    $ cd autostart
+    $ nano tightvnc.desktop
 
 ------
 [Desktop Entry]
