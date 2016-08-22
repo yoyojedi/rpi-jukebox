@@ -65,7 +65,9 @@ installed VNC
          $ sudo apt-get install tightvncserver
     2. Start VNC server:
          $ vncserver
-    3. Set VNC Server [to autorun](https://learn.adafruit.com/adafruit-raspberry-pi-lesson-7-remote-control-with-vnc/running-vncserver-at-startup)
+    3. Set VNC Server to autorun
+
+[Autorun steps via adafruit](https://learn.adafruit.com/adafruit-raspberry-pi-lesson-7-remote-control-with-vnc/running-vncserver-at-startup)
 
 run commands
 
@@ -75,16 +77,17 @@ run commands
     $ cd autostart
     $ nano tightvnc.desktop
 
-------
-[Desktop Entry]
-Type=Application
-Name=TightVNC
-Exec=vncserver :1
-StartupNotify=false
------
+using nano, copy this, and save:
+
+    [Desktop Entry]
+    Type=Application
+    Name=TightVNC
+    Exec=vncserver :1
+    StartupNotify=false
+
 
 Get [vnc viewer](http://tightvnc.com/download.php) on desktop
-<other headless steps>
+
 
 Headless
 ============
