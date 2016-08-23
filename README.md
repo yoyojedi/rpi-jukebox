@@ -50,6 +50,8 @@ First Boot
 ============
 < land at desktop user "pi" >
 
+    sudo apt-get update
+
 setup wifi (click icon in upper right (took a min to be ready) chose ssid, entered pass)
 
 change password in settings
@@ -89,7 +91,7 @@ Get [vnc viewer](http://tightvnc.com/download.php) on desktop
 Headless
 ============
 * done: setup dhcp reservation with pi's mac address 
-* verified: log into pi via desktop?
+* verified: log into pi via desktop
 * verified: log into pi via commandline
 
 
@@ -97,10 +99,33 @@ Headless
 
 Music
 ============
-pick some mp3s. 
-put them on the usb stick.
-plug in speakers.
-play some mp3s.
+1. [Setup Samba](http://raspberrypihq.com/how-to-share-a-folder-with-a-windows-computer-from-a-raspberry-pi/)
+
+    sudo apt-get install samba samba-common-bin
+    sudo nano /etc/samba/smb.conf
+
+set these settings
+
+    workgroup = WORKGROUP
+    wins support = yes
+
+figure out share. i piked /home/pi/Music
+
+    [Music]
+     comment=Jukebox Share
+     path=/home/pi/Music
+     browseable=Yes
+     writeable=Yes
+     only guest=no
+     create mask=0777
+     directory mask=0777
+     public=no
+
+2. copy some mp3s to share.
+
+3. plug in speakers.
+
+4. [play some mp3s.](https://www.raspberrypi.org/documentation/usage/audio/)
 
 Card Reader
 ============
